@@ -3,6 +3,7 @@
 <body>
 
 <h2>Date Field Restrictions</h2>
+
 <p>Use the min and max attributes to add restrictions to dates:</p>
 
 <form action="/action_page.php">
